@@ -9,7 +9,6 @@ Key features:
 - First framework for spatio-temporal thermal 3D reconstruction
 - Achieves state-of-the-art performance with 1°C average absolute temperature error
 - Enables prediction of surface temperature variations over time
-- Provides first aerial multi-view RGB-TIR paired dataset
 
 ## TSDN Dataset Structure 
 The Thermal Scene Day-Night dataset is organized as follows:
