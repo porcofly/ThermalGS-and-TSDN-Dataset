@@ -41,13 +41,12 @@ data/
 ├─mesh.obj
 └─points3d.ply
 ```
+​**Download TSDN dataset**:  [[OneDrive]](https://1drv.ms/u/s!AuxIu5p3iyOxiGeExKUHh35V4HWB?e=8UA0IM)
+  
+   
+
 **Note**: You need to copy `mesh.mtl`, `mesh.obj`, `points3d.ply` to corresponding folders or modify path settings in the code to ensure proper data loading
 
-**Dataset Highlights**:
-- 5 temporal captures (24-hour coverage)
-- High-resolution aerial RGB reference images
-- Synchronized TIR images with temperature annotations
-- Multiple train/test splits for single-time and cross-time tasks
 
 ## Getting Started
 
