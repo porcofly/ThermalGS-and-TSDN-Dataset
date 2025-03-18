@@ -28,9 +28,9 @@ data/
 │  └─test/                 # Mixed-time testing data
 │
 ├─Temperature/             # Temperature prediction tasks
-│  ├─CrossTime_4toPM14_Temp/  # 4time→2PM prediction
-│  ├─CrossTime_4toPM18_Temp/  # 4time→6PM prediction
-│  ├─CrossTime_4toPM22_Temp/  # 4time→10PM prediction
+│  ├─CrossTime_4toPM14_Temp/  # 4time→14PM prediction
+│  ├─CrossTime_4toPM18_Temp/  # 4time→18PM prediction
+│  ├─CrossTime_4toPM22_Temp/  # 4time→22PM prediction
 │  └─CrossTime_Temp/          # General cross-time prediction
 ├─RGB_image
 ├─  ├─train
